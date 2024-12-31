@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+.poster{
+    color: white;
+    text-align: center;
+    font-family: "Anton", serif;
+    font-weight: 400;
+    font-size: larger;
+    text-transform: uppercase;
+    margin-top: 100px;
+}
+
+.us{
+    border: 5px solid white;
+}
